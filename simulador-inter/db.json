@@ -1,0 +1,114 @@
+{
+  "inter": [
+    {
+      "usuario": {
+        "cpf": "12345678901",
+        "nome": "João Silva",
+        "email": "joao.silva@email.com",
+        "telefone": "(11) 98765-4321"
+      },
+      "cnpj_empresa": "12.345.678/0001-90",
+      "valor": 150.50,
+      "data": "2025-11-01"
+    },
+    {
+      "usuario": {
+        "cpf": "55566677799",
+        "nome": "Camila Rodrigues",
+        "email": "camila.rodrigues@email.com",
+        "telefone": "(41) 97654-8899"
+      },
+      "cnpj_empresa": "98.765.432/0001-10",
+      "valor": 2500.00,
+      "data": "2025-11-02"
+    },
+    {
+      "usuario": {
+        "cpf": "11122233344",
+        "nome": "Pedro Oliveira",
+        "email": "pedro.oliveira@email.com",
+        "telefone": "(11) 97654-3210"
+      },
+      "cnpj_empresa": "11.222.333/0001-44",
+      "valor": 75.25,
+      "data": "2025-11-03"
+    },
+    {
+      "usuario": {
+        "cpf": "55566677799",
+        "nome": "Camila Rodrigues",
+        "email": "camila.rodrigues@email.com",
+        "telefone": "(41) 97654-8899"
+      },
+      "cnpj_empresa": "55.666.777/0001-88",
+      "valor": 1200.00,
+      "data": "2025-11-04"
+    },
+    {
+      "usuario": {
+        "cpf": "12345678901",
+        "nome": "João Silva",
+        "email": "joao.silva@email.com",
+        "telefone": "(11) 98765-4321"
+      },
+      "cnpj_empresa": "99.888.777/0001-66",
+      "valor": 45.90,
+      "data": "2025-11-05"
+    },
+    {
+      "usuario": {
+        "cpf": "33344455566",
+        "nome": "Carlos Lima",
+        "email": "carlos.lima@email.com",
+        "telefone": "(41) 99999-8888"
+      },
+      "cnpj_empresa": "12.345.678/0001-90",
+      "valor": 3500.75,
+      "data": "2025-11-06"
+    },
+    {
+      "usuario": {
+        "cpf": "98765432109",
+        "nome": "Maria Santos",
+        "email": "maria.santos@email.com",
+        "telefone": "(21) 99876-5432"
+      },
+      "cnpj_empresa": "22.333.444/0001-55",
+      "valor": 89.99,
+      "data": "2025-11-07"
+    },
+    {
+      "usuario": {
+        "cpf": "77788899900",
+        "nome": "Fernanda Souza",
+        "email": "fernanda.souza@email.com",
+        "telefone": "(85) 98777-6666"
+      },
+      "cnpj_empresa": "33.444.555/0001-66",
+      "valor": 550.00,
+      "data": "2025-11-08"
+    },
+    {
+      "usuario": {
+        "cpf": "11122233344",
+        "nome": "Pedro Oliveira",
+        "email": "pedro.oliveira@email.com",
+        "telefone": "(11) 97654-3210"
+      },
+      "cnpj_empresa": "44.555.666/0001-77",
+      "valor": 15.50,
+      "data": "2025-11-09"
+    },
+    {
+      "usuario": {
+        "cpf": "55566677799",
+        "nome": "Camila Rodrigues",
+        "email": "camila.rodrigues@email.com",
+        "telefone": "(41) 97654-8899"
+      },
+      "cnpj_empresa": "55.666.777/0001-88",
+      "valor": 5000.00,
+      "data": "2025-11-10"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+npx json-server --watch db.json --port 9001 // nubank
+npx json-server --watch db.json --port 9002 // inter
+npx json-server --watch db.json --port 9003 // willbank

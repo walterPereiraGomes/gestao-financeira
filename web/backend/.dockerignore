@@ -1,0 +1,43 @@
+# Arquivos Git
+.git
+.gitignore
+.gitattributes
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de documentação
+README.md
+*.md
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Maven
+target/
+
+# Arquivos de configuração local
+application-local.properties
+application-dev.properties
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Scripts e ferramentas
+mvnw
+mvnw.cmd
+.mvn/
+
+# Arquivos de teste
+src/test/
