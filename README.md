@@ -177,33 +177,9 @@ Acesse: http://localhost:8086
 - **Usuário:** admin
 - **Senha:** admin
 
-### 4. Criar o Realm
-
-1. Clique em **Create Realm**
-2. Nome do Realm: `gestao-financeira`
-3. Clique em **Create**
-
-### 5. Criar o Client
-
-1. Acesse **Clients** → **Create client**
-2. Configure:
-   - **Client ID:** `gestao-financeira-application`
-   - **Client Protocol:** openid-connect
-   - **Root URL:** `http://localhost:5173`
-3. Na aba **Settings**:
-   - **Valid redirect URIs:** `http://localhost:5173/*`
-   - **Web origins:** `http://localhost:5173`
-4. Salve as configurações
-
-### 6. Criar Usuários de Teste
-
-1. Acesse **Users** → **Add user**
-2. Crie usuários conforme necessário
-3. Defina senhas em **Credentials**
-
-Para mais detalhes, consulte:
-- `web/frontend/KEYCLOAK_CONFIG.md`
-- `web/frontend/KEYCLOAK_USAGE.md`
+### 4. Importar o Realm
+na criação do realm, utilizar o arquivo realm-gestao-financeira.json que deixei na raiz do projeto,
+com isso toda configuração necessária do keycloak ja vai funcionar.
 
 ---
 
